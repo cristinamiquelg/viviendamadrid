@@ -1,0 +1,211 @@
+distrito_codigo,distrito_nombre,anio,precio_alquiler_eur_m2_mes
+01,Centro,2007,18.0
+01,Centro,2008,17.24
+01,Centro,2009,15.7
+01,Centro,2010,15.3675
+01,Centro,2011,15.01
+01,Centro,2012,14.34
+01,Centro,2013,13.5175
+01,Centro,2014,13.5275
+01,Centro,2015,14.335
+01,Centro,2016,16.62
+02,Arganzuela,2007,13.5
+02,Arganzuela,2008,13.38
+02,Arganzuela,2009,12.72
+02,Arganzuela,2010,12.2775
+02,Arganzuela,2011,11.92
+02,Arganzuela,2012,11.475
+02,Arganzuela,2013,11.0075
+02,Arganzuela,2014,10.8425
+02,Arganzuela,2015,11.5525
+02,Arganzuela,2016,12.7575
+03,Retiro,2007,14.0
+03,Retiro,2008,14.105
+03,Retiro,2009,12.685
+03,Retiro,2010,12.2675
+03,Retiro,2011,12.7
+03,Retiro,2012,12.27
+03,Retiro,2013,11.43
+03,Retiro,2014,11.5875
+03,Retiro,2015,12.4625
+03,Retiro,2016,14.015
+04,Salamanca,2007,16.0
+04,Salamanca,2008,16.6
+04,Salamanca,2009,15.17
+04,Salamanca,2010,14.7475
+04,Salamanca,2011,14.86
+04,Salamanca,2012,14.315
+04,Salamanca,2013,13.4875
+04,Salamanca,2014,13.6825
+04,Salamanca,2015,14.31
+04,Salamanca,2016,16.01
+05,Chamartín,2007,14.5
+05,Chamartín,2008,14.755
+05,Chamartín,2009,13.945
+05,Chamartín,2010,13.675
+05,Chamartín,2011,13.5275
+05,Chamartín,2012,12.9325
+05,Chamartín,2013,12.29
+05,Chamartín,2014,12.275
+05,Chamartín,2015,12.775
+05,Chamartín,2016,13.945
+06,Tetuán,2007,12.5
+06,Tetuán,2008,12.955
+06,Tetuán,2009,12.175
+06,Tetuán,2010,11.795
+06,Tetuán,2011,11.5125
+06,Tetuán,2012,11.23
+06,Tetuán,2013,10.93
+06,Tetuán,2014,11.1725
+06,Tetuán,2015,12.0575
+06,Tetuán,2016,13.655
+07,Chamberí,2007,15.5
+07,Chamberí,2008,15.84
+07,Chamberí,2009,14.8
+07,Chamberí,2010,14.335
+07,Chamberí,2011,14.08
+07,Chamberí,2012,13.6775
+07,Chamberí,2013,13.005
+07,Chamberí,2014,13.3175
+07,Chamberí,2015,13.935
+07,Chamberí,2016,15.7875
+08,Fuencarral-El Pardo,2007,10.5
+08,Fuencarral-El Pardo,2008,11.63
+08,Fuencarral-El Pardo,2009,10.8
+08,Fuencarral-El Pardo,2010,10.6475
+08,Fuencarral-El Pardo,2011,10.7725
+08,Fuencarral-El Pardo,2012,10.335
+08,Fuencarral-El Pardo,2013,10.0275
+08,Fuencarral-El Pardo,2014,10.0275
+08,Fuencarral-El Pardo,2015,10.39
+08,Fuencarral-El Pardo,2016,11.025
+09,Moncloa-Aravaca,2007,13.0
+09,Moncloa-Aravaca,2008,14.175
+09,Moncloa-Aravaca,2009,13.485
+09,Moncloa-Aravaca,2010,13.24
+09,Moncloa-Aravaca,2011,13.065
+09,Moncloa-Aravaca,2012,12.4025
+09,Moncloa-Aravaca,2013,11.61
+09,Moncloa-Aravaca,2014,11.9975
+09,Moncloa-Aravaca,2015,12.3675
+09,Moncloa-Aravaca,2016,13.4775
+10,Latina,2007,11.5
+10,Latina,2008,11.625
+10,Latina,2009,10.41
+10,Latina,2010,10.1225
+10,Latina,2011,9.8575
+10,Latina,2012,9.595
+10,Latina,2013,8.8025
+10,Latina,2014,8.6875
+10,Latina,2015,8.82
+10,Latina,2016,9.775
+11,Carabanchel,2007,11.5
+11,Carabanchel,2008,11.57
+11,Carabanchel,2009,10.605
+11,Carabanchel,2010,10.435
+11,Carabanchel,2011,10.1175
+11,Carabanchel,2012,9.69
+11,Carabanchel,2013,9.0525
+11,Carabanchel,2014,8.4025
+11,Carabanchel,2015,8.7325
+11,Carabanchel,2016,9.585
+12,Usera,2007,11.5
+12,Usera,2008,12.035
+12,Usera,2009,10.48
+12,Usera,2010,10.2875
+12,Usera,2011,9.995
+12,Usera,2012,9.4225
+12,Usera,2013,8.92
+12,Usera,2014,8.6075
+12,Usera,2015,9.2325
+12,Usera,2016,9.665
+13,Puente de Vallecas,2007,12.0
+13,Puente de Vallecas,2008,12.12
+13,Puente de Vallecas,2009,10.785
+13,Puente de Vallecas,2010,10.575
+13,Puente de Vallecas,2011,10.3675
+13,Puente de Vallecas,2012,9.77
+13,Puente de Vallecas,2013,9.025
+13,Puente de Vallecas,2014,8.345
+13,Puente de Vallecas,2015,8.6025
+13,Puente de Vallecas,2016,9.44
+14,Moratalaz,2007,11.0
+14,Moratalaz,2008,11.45
+14,Moratalaz,2009,10.215
+14,Moratalaz,2010,10.0
+14,Moratalaz,2011,9.5725
+14,Moratalaz,2012,9.1525
+14,Moratalaz,2013,8.6125
+14,Moratalaz,2014,8.435
+14,Moratalaz,2015,8.5775
+14,Moratalaz,2016,9.43
+15,Ciudad Lineal,2007,13.0
+15,Ciudad Lineal,2008,12.935
+15,Ciudad Lineal,2009,11.69
+15,Ciudad Lineal,2010,11.455
+15,Ciudad Lineal,2011,11.415
+15,Ciudad Lineal,2012,11.0875
+15,Ciudad Lineal,2013,10.3225
+15,Ciudad Lineal,2014,10.1875
+15,Ciudad Lineal,2015,10.7025
+15,Ciudad Lineal,2016,11.55
+16,Hortaleza,2007,13.0
+16,Hortaleza,2008,12.895
+16,Hortaleza,2009,12.135
+16,Hortaleza,2010,11.825
+16,Hortaleza,2011,11.8825
+16,Hortaleza,2012,11.55
+16,Hortaleza,2013,10.965
+16,Hortaleza,2014,10.61
+16,Hortaleza,2015,10.825
+16,Hortaleza,2016,11.3125
+17,Villaverde,2007,10.5
+17,Villaverde,2008,10.93
+17,Villaverde,2009,9.9
+17,Villaverde,2010,9.62
+17,Villaverde,2011,9.2425
+17,Villaverde,2012,9.0775
+17,Villaverde,2013,8.14
+17,Villaverde,2014,7.8175
+17,Villaverde,2015,8.225
+17,Villaverde,2016,8.4325
+18,Villa de Vallecas,2007,10.5
+18,Villa de Vallecas,2008,10.89
+18,Villa de Vallecas,2009,10.1
+18,Villa de Vallecas,2010,9.8125
+18,Villa de Vallecas,2011,9.645
+18,Villa de Vallecas,2012,9.305
+18,Villa de Vallecas,2013,8.8475
+18,Villa de Vallecas,2014,8.6425
+18,Villa de Vallecas,2015,8.7725
+18,Villa de Vallecas,2016,9.26
+19,Vicálvaro,2007,10.0
+19,Vicálvaro,2008,10.805
+19,Vicálvaro,2009,10.21
+19,Vicálvaro,2010,9.7125
+19,Vicálvaro,2011,9.2975
+19,Vicálvaro,2012,8.95
+19,Vicálvaro,2013,8.395
+19,Vicálvaro,2014,8.1125
+19,Vicálvaro,2015,8.37
+19,Vicálvaro,2016,9.0675
+20,San Blas - Canillejas,2007,12.5
+20,San Blas - Canillejas,2008,12.465
+20,San Blas - Canillejas,2009,10.98
+20,San Blas - Canillejas,2010,10.7975
+20,San Blas - Canillejas,2011,10.7725
+20,San Blas - Canillejas,2012,10.21
+20,San Blas - Canillejas,2013,9.41
+20,San Blas - Canillejas,2014,9.245
+20,San Blas - Canillejas,2015,9.49
+20,San Blas - Canillejas,2016,10.0125
+21,Barajas,2007,11.5
+21,Barajas,2008,11.84
+21,Barajas,2009,10.92
+21,Barajas,2010,10.775
+21,Barajas,2011,11.0825
+21,Barajas,2012,10.6625
+21,Barajas,2013,10.225
+21,Barajas,2014,9.7825
+21,Barajas,2015,9.9275
+21,Barajas,2016,10.605

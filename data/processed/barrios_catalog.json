@@ -1,0 +1,919 @@
+[
+ {
+  "distrito_codigo": "01",
+  "distrito_nombre": "Centro",
+  "barrio_codigo": "011",
+  "barrio_nombre": "Palacio",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "01",
+  "distrito_nombre": "Centro",
+  "barrio_codigo": "012",
+  "barrio_nombre": "Embajadores",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "01",
+  "distrito_nombre": "Centro",
+  "barrio_codigo": "013",
+  "barrio_nombre": "Cortes",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "01",
+  "distrito_nombre": "Centro",
+  "barrio_codigo": "014",
+  "barrio_nombre": "Justicia",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "01",
+  "distrito_nombre": "Centro",
+  "barrio_codigo": "015",
+  "barrio_nombre": "Universidad",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "01",
+  "distrito_nombre": "Centro",
+  "barrio_codigo": "016",
+  "barrio_nombre": "Sol",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "02",
+  "distrito_nombre": "Arganzuela",
+  "barrio_codigo": "021",
+  "barrio_nombre": "Imperial",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "02",
+  "distrito_nombre": "Arganzuela",
+  "barrio_codigo": "022",
+  "barrio_nombre": "Las Acacias",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "02",
+  "distrito_nombre": "Arganzuela",
+  "barrio_codigo": "023",
+  "barrio_nombre": "La Chopera",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "02",
+  "distrito_nombre": "Arganzuela",
+  "barrio_codigo": "024",
+  "barrio_nombre": "Legazpi",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "02",
+  "distrito_nombre": "Arganzuela",
+  "barrio_codigo": "025",
+  "barrio_nombre": "Delicias",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "02",
+  "distrito_nombre": "Arganzuela",
+  "barrio_codigo": "026",
+  "barrio_nombre": "Palos de Moguer",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "02",
+  "distrito_nombre": "Arganzuela",
+  "barrio_codigo": "027",
+  "barrio_nombre": "Atocha",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "03",
+  "distrito_nombre": "Retiro",
+  "barrio_codigo": "031",
+  "barrio_nombre": "Pacífico",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "03",
+  "distrito_nombre": "Retiro",
+  "barrio_codigo": "032",
+  "barrio_nombre": "Adelfas",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "03",
+  "distrito_nombre": "Retiro",
+  "barrio_codigo": "033",
+  "barrio_nombre": "Estrella",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "03",
+  "distrito_nombre": "Retiro",
+  "barrio_codigo": "034",
+  "barrio_nombre": "Ibiza",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "03",
+  "distrito_nombre": "Retiro",
+  "barrio_codigo": "035",
+  "barrio_nombre": "Jerónimos",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "03",
+  "distrito_nombre": "Retiro",
+  "barrio_codigo": "036",
+  "barrio_nombre": "Niño Jesús",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "04",
+  "distrito_nombre": "Salamanca",
+  "barrio_codigo": "041",
+  "barrio_nombre": "Recoletos",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "04",
+  "distrito_nombre": "Salamanca",
+  "barrio_codigo": "042",
+  "barrio_nombre": "Goya",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "04",
+  "distrito_nombre": "Salamanca",
+  "barrio_codigo": "043",
+  "barrio_nombre": "Fuente del Berro",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "04",
+  "distrito_nombre": "Salamanca",
+  "barrio_codigo": "044",
+  "barrio_nombre": "Guindalera",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "04",
+  "distrito_nombre": "Salamanca",
+  "barrio_codigo": "045",
+  "barrio_nombre": "Lista",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "04",
+  "distrito_nombre": "Salamanca",
+  "barrio_codigo": "046",
+  "barrio_nombre": "Castellana",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "05",
+  "distrito_nombre": "Chamartín",
+  "barrio_codigo": "051",
+  "barrio_nombre": "El Viso",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "05",
+  "distrito_nombre": "Chamartín",
+  "barrio_codigo": "052",
+  "barrio_nombre": "Prosperidad",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "05",
+  "distrito_nombre": "Chamartín",
+  "barrio_codigo": "053",
+  "barrio_nombre": "Ciudad Jardín",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "05",
+  "distrito_nombre": "Chamartín",
+  "barrio_codigo": "054",
+  "barrio_nombre": "Hispanoamérica",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "05",
+  "distrito_nombre": "Chamartín",
+  "barrio_codigo": "055",
+  "barrio_nombre": "Nueva España",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "05",
+  "distrito_nombre": "Chamartín",
+  "barrio_codigo": "056",
+  "barrio_nombre": "Castilla",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "06",
+  "distrito_nombre": "Tetuán",
+  "barrio_codigo": "061",
+  "barrio_nombre": "Bellas Vistas",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "06",
+  "distrito_nombre": "Tetuán",
+  "barrio_codigo": "062",
+  "barrio_nombre": "Cuatro Caminos",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "06",
+  "distrito_nombre": "Tetuán",
+  "barrio_codigo": "063",
+  "barrio_nombre": "Castillejos",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "06",
+  "distrito_nombre": "Tetuán",
+  "barrio_codigo": "064",
+  "barrio_nombre": "Almenara",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "06",
+  "distrito_nombre": "Tetuán",
+  "barrio_codigo": "065",
+  "barrio_nombre": "Valdeacederas",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "06",
+  "distrito_nombre": "Tetuán",
+  "barrio_codigo": "066",
+  "barrio_nombre": "Berruguete",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "07",
+  "distrito_nombre": "Chamberí",
+  "barrio_codigo": "071",
+  "barrio_nombre": "Gaztambide",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "07",
+  "distrito_nombre": "Chamberí",
+  "barrio_codigo": "072",
+  "barrio_nombre": "Arapiles",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "07",
+  "distrito_nombre": "Chamberí",
+  "barrio_codigo": "073",
+  "barrio_nombre": "Trafalgar",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "07",
+  "distrito_nombre": "Chamberí",
+  "barrio_codigo": "074",
+  "barrio_nombre": "Almagro",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "07",
+  "distrito_nombre": "Chamberí",
+  "barrio_codigo": "075",
+  "barrio_nombre": "Ríos Rosas",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "07",
+  "distrito_nombre": "Chamberí",
+  "barrio_codigo": "076",
+  "barrio_nombre": "Vallehermoso",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "08",
+  "distrito_nombre": "Fuencarral-El Pardo",
+  "barrio_codigo": "081",
+  "barrio_nombre": "El Pardo",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "08",
+  "distrito_nombre": "Fuencarral-El Pardo",
+  "barrio_codigo": "082",
+  "barrio_nombre": "Fuentelarreina",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "08",
+  "distrito_nombre": "Fuencarral-El Pardo",
+  "barrio_codigo": "083",
+  "barrio_nombre": "Peña Grande",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "08",
+  "distrito_nombre": "Fuencarral-El Pardo",
+  "barrio_codigo": "084",
+  "barrio_nombre": "El Pilar",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "08",
+  "distrito_nombre": "Fuencarral-El Pardo",
+  "barrio_codigo": "085",
+  "barrio_nombre": "La Paz",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "08",
+  "distrito_nombre": "Fuencarral-El Pardo",
+  "barrio_codigo": "086",
+  "barrio_nombre": "Valverde",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "08",
+  "distrito_nombre": "Fuencarral-El Pardo",
+  "barrio_codigo": "087",
+  "barrio_nombre": "Mirasierra",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "08",
+  "distrito_nombre": "Fuencarral-El Pardo",
+  "barrio_codigo": "088",
+  "barrio_nombre": "El Goloso",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "09",
+  "distrito_nombre": "Moncloa-Aravaca",
+  "barrio_codigo": "091",
+  "barrio_nombre": "Casa de Campo",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "09",
+  "distrito_nombre": "Moncloa-Aravaca",
+  "barrio_codigo": "092",
+  "barrio_nombre": "Argüelles",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "09",
+  "distrito_nombre": "Moncloa-Aravaca",
+  "barrio_codigo": "093",
+  "barrio_nombre": "Ciudad Universitaria",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "09",
+  "distrito_nombre": "Moncloa-Aravaca",
+  "barrio_codigo": "094",
+  "barrio_nombre": "Valdezarza",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "09",
+  "distrito_nombre": "Moncloa-Aravaca",
+  "barrio_codigo": "095",
+  "barrio_nombre": "Valdemarín",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "09",
+  "distrito_nombre": "Moncloa-Aravaca",
+  "barrio_codigo": "096",
+  "barrio_nombre": "El Plantío",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "09",
+  "distrito_nombre": "Moncloa-Aravaca",
+  "barrio_codigo": "097",
+  "barrio_nombre": "Aravaca",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "10",
+  "distrito_nombre": "Latina",
+  "barrio_codigo": "101",
+  "barrio_nombre": "Los Cármenes",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "10",
+  "distrito_nombre": "Latina",
+  "barrio_codigo": "102",
+  "barrio_nombre": "Puerta del Ángel",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "10",
+  "distrito_nombre": "Latina",
+  "barrio_codigo": "103",
+  "barrio_nombre": "Lucero",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "10",
+  "distrito_nombre": "Latina",
+  "barrio_codigo": "104",
+  "barrio_nombre": "Aluche",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "10",
+  "distrito_nombre": "Latina",
+  "barrio_codigo": "105",
+  "barrio_nombre": "Campamento",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "10",
+  "distrito_nombre": "Latina",
+  "barrio_codigo": "106",
+  "barrio_nombre": "Cuatro Vientos",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "10",
+  "distrito_nombre": "Latina",
+  "barrio_codigo": "107",
+  "barrio_nombre": "Las Águilas",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "11",
+  "distrito_nombre": "Carabanchel",
+  "barrio_codigo": "111",
+  "barrio_nombre": "Comillas",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "11",
+  "distrito_nombre": "Carabanchel",
+  "barrio_codigo": "112",
+  "barrio_nombre": "Opañel",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "11",
+  "distrito_nombre": "Carabanchel",
+  "barrio_codigo": "113",
+  "barrio_nombre": "San Isidro",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "11",
+  "distrito_nombre": "Carabanchel",
+  "barrio_codigo": "114",
+  "barrio_nombre": "Vista Alegre",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "11",
+  "distrito_nombre": "Carabanchel",
+  "barrio_codigo": "115",
+  "barrio_nombre": "Puerta Bonita",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "11",
+  "distrito_nombre": "Carabanchel",
+  "barrio_codigo": "116",
+  "barrio_nombre": "Buenavista",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "11",
+  "distrito_nombre": "Carabanchel",
+  "barrio_codigo": "117",
+  "barrio_nombre": "Abrantes",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "12",
+  "distrito_nombre": "Usera",
+  "barrio_codigo": "121",
+  "barrio_nombre": "Orcasitas",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "12",
+  "distrito_nombre": "Usera",
+  "barrio_codigo": "122",
+  "barrio_nombre": "Orcasur",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "12",
+  "distrito_nombre": "Usera",
+  "barrio_codigo": "123",
+  "barrio_nombre": "San Fermín",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "12",
+  "distrito_nombre": "Usera",
+  "barrio_codigo": "124",
+  "barrio_nombre": "Almendrales",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "12",
+  "distrito_nombre": "Usera",
+  "barrio_codigo": "125",
+  "barrio_nombre": "Moscardó",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "12",
+  "distrito_nombre": "Usera",
+  "barrio_codigo": "126",
+  "barrio_nombre": "Zofío",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "12",
+  "distrito_nombre": "Usera",
+  "barrio_codigo": "127",
+  "barrio_nombre": "Pradolongo",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "13",
+  "distrito_nombre": "Puente de Vallecas",
+  "barrio_codigo": "131",
+  "barrio_nombre": "Entrevías",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "13",
+  "distrito_nombre": "Puente de Vallecas",
+  "barrio_codigo": "132",
+  "barrio_nombre": "San Diego",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "13",
+  "distrito_nombre": "Puente de Vallecas",
+  "barrio_codigo": "133",
+  "barrio_nombre": "Palomeras Bajas",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "13",
+  "distrito_nombre": "Puente de Vallecas",
+  "barrio_codigo": "134",
+  "barrio_nombre": "Palomeras Sureste",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "13",
+  "distrito_nombre": "Puente de Vallecas",
+  "barrio_codigo": "135",
+  "barrio_nombre": "Portazgo",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "13",
+  "distrito_nombre": "Puente de Vallecas",
+  "barrio_codigo": "136",
+  "barrio_nombre": "Numancia",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "14",
+  "distrito_nombre": "Moratalaz",
+  "barrio_codigo": "141",
+  "barrio_nombre": "Pavones",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "14",
+  "distrito_nombre": "Moratalaz",
+  "barrio_codigo": "142",
+  "barrio_nombre": "Horcajo",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "14",
+  "distrito_nombre": "Moratalaz",
+  "barrio_codigo": "143",
+  "barrio_nombre": "Marroquina",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "14",
+  "distrito_nombre": "Moratalaz",
+  "barrio_codigo": "144",
+  "barrio_nombre": "Media Legua",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "14",
+  "distrito_nombre": "Moratalaz",
+  "barrio_codigo": "145",
+  "barrio_nombre": "Fontarrón",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "14",
+  "distrito_nombre": "Moratalaz",
+  "barrio_codigo": "146",
+  "barrio_nombre": "Vinateros",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "15",
+  "distrito_nombre": "Ciudad Lineal",
+  "barrio_codigo": "151",
+  "barrio_nombre": "Ventas",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "15",
+  "distrito_nombre": "Ciudad Lineal",
+  "barrio_codigo": "152",
+  "barrio_nombre": "Pueblo Nuevo",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "15",
+  "distrito_nombre": "Ciudad Lineal",
+  "barrio_codigo": "153",
+  "barrio_nombre": "Quintana",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "15",
+  "distrito_nombre": "Ciudad Lineal",
+  "barrio_codigo": "154",
+  "barrio_nombre": "Concepción",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "15",
+  "distrito_nombre": "Ciudad Lineal",
+  "barrio_codigo": "155",
+  "barrio_nombre": "San Pascual",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "15",
+  "distrito_nombre": "Ciudad Lineal",
+  "barrio_codigo": "156",
+  "barrio_nombre": "San Juan Bautista",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "15",
+  "distrito_nombre": "Ciudad Lineal",
+  "barrio_codigo": "157",
+  "barrio_nombre": "Colina",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "15",
+  "distrito_nombre": "Ciudad Lineal",
+  "barrio_codigo": "158",
+  "barrio_nombre": "Atalaya",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "15",
+  "distrito_nombre": "Ciudad Lineal",
+  "barrio_codigo": "159",
+  "barrio_nombre": "Costillares",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "16",
+  "distrito_nombre": "Hortaleza",
+  "barrio_codigo": "161",
+  "barrio_nombre": "Palomas",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "16",
+  "distrito_nombre": "Hortaleza",
+  "barrio_codigo": "162",
+  "barrio_nombre": "Piovera",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "16",
+  "distrito_nombre": "Hortaleza",
+  "barrio_codigo": "163",
+  "barrio_nombre": "Canillas",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "16",
+  "distrito_nombre": "Hortaleza",
+  "barrio_codigo": "164",
+  "barrio_nombre": "Pinar del Rey",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "16",
+  "distrito_nombre": "Hortaleza",
+  "barrio_codigo": "165",
+  "barrio_nombre": "Apóstol Santiago",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "16",
+  "distrito_nombre": "Hortaleza",
+  "barrio_codigo": "166",
+  "barrio_nombre": "Valdefuentes",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "17",
+  "distrito_nombre": "Villaverde",
+  "barrio_codigo": "171",
+  "barrio_nombre": "San Andrés",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "17",
+  "distrito_nombre": "Villaverde",
+  "barrio_codigo": "172",
+  "barrio_nombre": "San Cristóbal",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "17",
+  "distrito_nombre": "Villaverde",
+  "barrio_codigo": "173",
+  "barrio_nombre": "Butarque",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "17",
+  "distrito_nombre": "Villaverde",
+  "barrio_codigo": "174",
+  "barrio_nombre": "Los Rosales",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "17",
+  "distrito_nombre": "Villaverde",
+  "barrio_codigo": "175",
+  "barrio_nombre": "Los Ángeles",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "18",
+  "distrito_nombre": "Villa de Vallecas",
+  "barrio_codigo": "181",
+  "barrio_nombre": "Casco Histórico de Vallecas",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "18",
+  "distrito_nombre": "Villa de Vallecas",
+  "barrio_codigo": "182",
+  "barrio_nombre": "Santa Eugenia",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "18",
+  "distrito_nombre": "Villa de Vallecas",
+  "barrio_codigo": "183",
+  "barrio_nombre": "Ensanche de Vallecas",
+  "has_geometry": false
+ },
+ {
+  "distrito_codigo": "19",
+  "distrito_nombre": "Vicálvaro",
+  "barrio_codigo": "191",
+  "barrio_nombre": "Casco Histórico de Vicálvaro",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "19",
+  "distrito_nombre": "Vicálvaro",
+  "barrio_codigo": "192",
+  "barrio_nombre": "Valdebernardo",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "19",
+  "distrito_nombre": "Vicálvaro",
+  "barrio_codigo": "193",
+  "barrio_nombre": "Valderrivas",
+  "has_geometry": false
+ },
+ {
+  "distrito_codigo": "19",
+  "distrito_nombre": "Vicálvaro",
+  "barrio_codigo": "194",
+  "barrio_nombre": "El Cañaveral",
+  "has_geometry": false
+ },
+ {
+  "distrito_codigo": "20",
+  "distrito_nombre": "San Blas-Canillejas",
+  "barrio_codigo": "201",
+  "barrio_nombre": "Simancas",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "20",
+  "distrito_nombre": "San Blas-Canillejas",
+  "barrio_codigo": "202",
+  "barrio_nombre": "Hellín",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "20",
+  "distrito_nombre": "San Blas-Canillejas",
+  "barrio_codigo": "203",
+  "barrio_nombre": "Amposta",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "20",
+  "distrito_nombre": "San Blas-Canillejas",
+  "barrio_codigo": "204",
+  "barrio_nombre": "Arcos",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "20",
+  "distrito_nombre": "San Blas-Canillejas",
+  "barrio_codigo": "205",
+  "barrio_nombre": "Rosas",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "20",
+  "distrito_nombre": "San Blas-Canillejas",
+  "barrio_codigo": "206",
+  "barrio_nombre": "Rejas",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "20",
+  "distrito_nombre": "San Blas-Canillejas",
+  "barrio_codigo": "207",
+  "barrio_nombre": "Canillejas",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "20",
+  "distrito_nombre": "San Blas-Canillejas",
+  "barrio_codigo": "208",
+  "barrio_nombre": "El Salvador",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "21",
+  "distrito_nombre": "Barajas",
+  "barrio_codigo": "211",
+  "barrio_nombre": "Alameda de Osuna",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "21",
+  "distrito_nombre": "Barajas",
+  "barrio_codigo": "212",
+  "barrio_nombre": "Aeropuerto",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "21",
+  "distrito_nombre": "Barajas",
+  "barrio_codigo": "213",
+  "barrio_nombre": "Casco Histórico de Barajas",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "21",
+  "distrito_nombre": "Barajas",
+  "barrio_codigo": "214",
+  "barrio_nombre": "Timón",
+  "has_geometry": true
+ },
+ {
+  "distrito_codigo": "21",
+  "distrito_nombre": "Barajas",
+  "barrio_codigo": "215",
+  "barrio_nombre": "Corralejos",
+  "has_geometry": true
+ }
+]
