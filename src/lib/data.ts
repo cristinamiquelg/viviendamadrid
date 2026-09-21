@@ -37,7 +37,8 @@ export async function fetchVentaPrices(): Promise<PricePoint[]> {
     .select("neighborhood_id, period_date, price")
     .eq("metric", "venta_eur_m2")
     .not("neighborhood_id", "is", null)
-    .order("period_date");
+    .order("period_date")
+    .range(0, 4999);
   if (error) throw error;
   return (data as Array<{ neighborhood_id: number; period_date: string; price: number }>).map(
     (row) => ({
@@ -54,7 +55,8 @@ export async function fetchAlquilerPrices(): Promise<RentPoint[]> {
     .select("district_id, period_date, price")
     .eq("metric", "alquiler_eur_m2_mes")
     .not("district_id", "is", null)
-    .order("period_date");
+    .order("period_date")
+    .range(0, 4999);
   if (error) throw error;
   return (data as Array<{ district_id: number; period_date: string; price: number }>).map(
     (row) => ({
