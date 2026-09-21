@@ -12,7 +12,17 @@ barrio.** Se investigó a fondo antes de construir esto:
 
 - El Ayuntamiento de Madrid publica el **precio medio declarado de segunda
   mano (€/m²) por barrio, con periodicidad anual**. Es la fuente que usa
-  este proyecto (2001–2016, 1.882 observaciones sobre 131 barrios).
+  este proyecto: 2001–2016 (1.882 observaciones, dataset histórico
+  procesado) + 2025 (129 observaciones, descargado directamente del
+  [Banco de Datos de Estadística](https://www.madrid.es) — "Precio medio
+  declarado de la vivienda (€/m²) por Distrito y Barrio según Tipo"). **Hay
+  un hueco sin datos entre 2017 y 2024**: el Ayuntamiento solo publica el
+  año en curso como descarga directa, no una serie histórica completa; el
+  modo "Mes (estimado)" interpola en línea recta entre 2016 y 2025 para ese
+  tramo, así que léelo como una referencia orientativa, no como la
+  evolución real año a año. 2 barrios (027 Atocha, 212 Aeropuerto) no
+  tienen dato en 2025 por tener menos de 15 transacciones registradas ese
+  año (umbral de significatividad del propio Ayuntamiento).
 - El alquiler solo está disponible de forma agregada **por distrito**, no por
   barrio, también anual (2007–2016, 210 observaciones sobre 21 distritos).
 - Idealista publica evolución mensual, pero solo a nivel de distrito y no
